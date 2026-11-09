@@ -12,6 +12,6 @@ int main()
     cin >> n;
     kb = n / 1024;
     cout << "Кількість повних кілобайтів: " << kb << endl;
-
+    // lab 6
     return 0;
 }
